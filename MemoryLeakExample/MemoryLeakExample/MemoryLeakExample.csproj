@@ -60,6 +60,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\Maui.Controls.BottomSheet-main\src\Maui.Controls.BottomSheet\Maui.Controls.BottomSheet.csproj" />
+	  <ProjectReference Include="..\MemoryLeakExampleDatabase\MemoryLeakExampleDatabase.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

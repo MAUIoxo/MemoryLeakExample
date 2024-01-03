@@ -5,7 +5,7 @@
              xmlns:sho="http://sharpnado.com"
              xmlns:views="clr-namespace:MemoryLeakExample.Pages.Views"
              xmlns:viewModels="clr-namespace:MemoryLeakExample.ViewModels"
-             xmlns:databaseModels="clr-namespace:MemoryLeakExample.DatabaseModels"
+             xmlns:databaseModels="clr-namespace:MemoryLeakExampleDatabase;assembly=MemoryLeakExampleDatabase"
              x:DataType="viewModels:TabView1ViewModel"
              x:Class="MemoryLeakExample.Pages.Views.TabView1">
 

@@ -1,4 +1,4 @@
-﻿using MemoryLeakExample.DatabaseModels;
+﻿using MemoryLeakExampleDatabase;
 
 namespace MemoryLeakExample.ViewModels
 {

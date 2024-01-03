@@ -1,5 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.Messaging;
-using MemoryLeakExample.DatabaseModels;
+using MemoryLeakExampleDatabase;
 using MemoryLeakExample.ViewModels.Messages;
 using MvvmHelpers;
 using MvvmHelpers.Commands;

@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
              xmlns:viewModels="clr-namespace:MemoryLeakExample.ViewModels"
-             xmlns:databaseModels="clr-namespace:MemoryLeakExample.DatabaseModels;assembly=MemoryLeakExample"
+             xmlns:databaseModels="clr-namespace:MemoryLeakExampleDatabase;assembly=MemoryLeakExampleDatabase"
              x:DataType="viewModels:TabView1ViewModel"
              x:Class="MemoryLeakExample.Pages.Views.BottomSheetContentView">
 
